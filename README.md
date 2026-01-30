@@ -1,7 +1,11 @@
 # 📄 Personal Resume Website
 
-This project is a simple **single-page resume website** built using **pure HTML**.  
+This project is a simple single-page resume website built using pure HTML.
 It focuses on clean structure, semantic tags, and readability.
+
+## 📸 Project Preview
+
+![Resume Website Preview](resume-preview.png)
 
 ## ✨ Features
 
@@ -12,37 +16,29 @@ It focuses on clean structure, semantic tags, and readability.
 - Projects section
 - Education table
 - Contact details
-- Footer with copyright
+- Footer
 
 ## 🛠️ Technologies Used
 
 - HTML5
 
-(No CSS or JavaScript used — pure semantic HTML)
-
 ## 📁 Project Structure
 
-
-resume-website/
+HTML Resume Page/
 │
 ├── index.html
+├── resume-preview.png
 └── README.md
-
 
 ## 🚀 How to Use
 
-1. Download or clone this repository
-2. Open `index.html` in any web browser
+1. Clone or download this repository
+2. Open `index.html` in any browser
 3. View your resume
 
 ## 📌 Purpose
 
-This project is created for:
-
-- Practicing HTML structure
-- Learning semantic tags
-- Academic / lab assignments
-- Personal portfolio
+This project is created for academic assignment and HTML practice.
 
 ## 👤 Author
 
@@ -52,4 +48,4 @@ Full Stack Developer | Tech Enthusiast | Web Designer
 
 ## 📜 License
 
-This project is open-source and free to use for learning purposes.
+This project is open-source for learning purposes.
